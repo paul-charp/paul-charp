@@ -34,14 +34,10 @@ What is here:
   <img alt="PADI Divemaster" src="https://img.shields.io/badge/PADI-Divemaster-0072CE?style=flat-square&labelColor=1c1c1c">
   <img alt="FFESSM Niveau 3" src="https://img.shields.io/badge/FFESSM-Niveau%203-003DA5?style=flat-square&labelColor=1c1c1c">
   <img alt="Advanced Nitrox" src="https://img.shields.io/badge/Advanced-Nitrox-2E9B4F?style=flat-square&labelColor=1c1c1c">
-  <img alt="Heading technical" src="https://img.shields.io/badge/heading-technical-111111?style=flat-square&labelColor=1c1c1c">
 </p>
 
-The deeper I go into tech diving, the more I want to see the numbers rather than
-trust a black box. So I've been writing them out.
-
-> [!CAUTION]
-> **Experimental. Not for real-world dive planning.**
+I'm heading toward technical diving, and the further in I get, the more I want
+to see the numbers rather than trust a black box. So I've been writing them out.
 
 - **[Dive-Plan](https://github.com/paul-charp/Dive-Plan)** — decompression
   library, Bühlmann GF and VPM-B.
