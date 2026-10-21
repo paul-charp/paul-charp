@@ -25,6 +25,8 @@ What is here:
 
 - **[Houdini-Sandbox](https://github.com/paul-charp/Houdini-Sandbox)** — setups,
   HDAs, Python and VEX. Everything that hasn't earned its own repo yet.
+- **[Houdini-NetworkTethers](https://github.com/paul-charp/Houdini-NetworkTethers)**
+  — link sticky notes, network boxes and dots to nodes so they move together.
 
 ---
 
